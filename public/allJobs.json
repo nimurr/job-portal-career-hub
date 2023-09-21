@@ -1,0 +1,182 @@
+[
+    {
+        "id": "1",
+        "img": "https://i.ibb.co/N7K4mNk/airbnb.png",
+        "title": "Software Developer",
+        "jobType": "Remote",
+        "time": "Full Time",
+        "location": "Anytown, USA",
+        "salary": "$80,000 - $100,000 per year",
+        "details": {
+            "jobDescription": "We are seeking a skilled software developer to join our team...",
+            "jobResponsibility": "Responsibilities include developing and maintaining...",
+            "Education": "Bachelor's degree in Computer Science or related field...",
+            "expriences": "3+ years of relevant experience in software development..."
+        },
+        "contact": {
+            "phone": "+1 (123) 456-7890",
+            "email": "contact@example.com",
+            "address": "123 Main Street, Suite 456, Anytown, USA"
+        }
+    },
+    {
+        "id": "2",
+        "img": "https://i.ibb.co/f08K8Dy/Career-Hub.png",
+        "title": "Data Analyst",
+        "jobType": "Onsite",
+        "time": "Part Time",
+        "location": "Cityville, USA",
+        "salary": "$50,000 - $70,000 per year",
+        "details": {
+            "jobDescription": "We are looking for a data analyst to analyze...",
+            "jobResponsibility": "Responsibilities include analyzing data, generating reports...",
+            "Education": "Bachelor's degree in Data Science or related field...",
+            "expriences": "1+ years of experience in data analysis..."
+        },
+        "contact": {
+            "phone": "+1 (987) 654-3210",
+            "email": "contact@companyxyz.com",
+            "address": "456 Elm Street, Suite 789, Cityville, USA"
+        }
+    },
+    {
+        "id": "3",
+        "img": "https://i.ibb.co/54gsVYV/google.png",
+        "title": "Software Developer",
+        "jobType": "Remote",
+        "time": "Full Time",
+        "location": "Anytown, USA",
+        "salary": "$80,000 - $100,000 per year",
+        "details": {
+            "jobDescription": "We are seeking a skilled software developer to join our team...",
+            "jobResponsibility": "Responsibilities include developing and maintaining...",
+            "Education": "Bachelor's degree in Computer Science or related field...",
+            "expriences": "3+ years of relevant experience in software development..."
+        },
+        "contact": {
+            "phone": "+1 (123) 456-7890",
+            "email": "contact@example.com",
+            "address": "123 Main Street, Suite 456, Anytown, USA"
+        }
+    },
+    {
+        "id": "4",
+        "img": "https://i.ibb.co/PxZv2vC/netflix.png",
+        "title": "Data Analyst",
+        "jobType": "Onsite",
+        "time": "Part Time",
+        "location": "Cityville, USA",
+        "salary": "$50,000 - $70,000 per year",
+        "details": {
+            "jobDescription": "We are looking for a data analyst to analyze...",
+            "jobResponsibility": "Responsibilities include analyzing data, generating reports...",
+            "Education": "Bachelor's degree in Data Science or related field...",
+            "expriences": "1+ years of experience in data analysis..."
+        },
+        "contact": {
+            "phone": "+1 (987) 654-3210",
+            "email": "contact@companyxyz.com",
+            "address": "456 Elm Street, Suite 789, Cityville, USA"
+        }
+    },
+    {
+        "id": "5",
+        "img": "https://i.ibb.co/f0kdt5v/tesla.png",
+        "title": "Data Analyst",
+        "jobType": "Onsite",
+        "time": "Part Time",
+        "location": "Cityville, USA",
+        "salary": "$50,000 - $70,000 per year",
+        "details": {
+            "jobDescription": "We are looking for a data analyst to analyze...",
+            "jobResponsibility": "Responsibilities include analyzing data, generating reports...",
+            "Education": "Bachelor's degree in Data Science or related field...",
+            "expriences": "1+ years of experience in data analysis..."
+        },
+        "contact": {
+            "phone": "+1 (987) 654-3210",
+            "email": "contact@companyxyz.com",
+            "address": "456 Elm Street, Suite 789, Cityville, USA"
+        }
+    },
+    {
+        "id": "6",
+        "img": "https://i.ibb.co/f08K8Dy/Career-Hub.png",
+        "title": "Data Analyst",
+        "jobType": "Onsite",
+        "time": "Part Time",
+        "location": "Cityville, USA",
+        "salary": "$50,000 - $70,000 per year",
+        "details": {
+            "jobDescription": "We are looking for a data analyst to analyze...",
+            "jobResponsibility": "Responsibilities include analyzing data, generating reports...",
+            "Education": "Bachelor's degree in Data Science or related field...",
+            "expriences": "1+ years of experience in data analysis..."
+        },
+        "contact": {
+            "phone": "+1 (987) 654-3210",
+            "email": "contact@companyxyz.com",
+            "address": "456 Elm Street, Suite 789, Cityville, USA"
+        }
+    },
+    {
+        "id": "7",
+        "img": "https://i.ibb.co/N7K4mNk/airbnb.png",
+        "title": "Data Analyst",
+        "jobType": "Onsite",
+        "time": "Part Time",
+        "location": "Cityville, USA",
+        "salary": "$50,000 - $70,000 per year",
+        "details": {
+            "jobDescription": "We are looking for a data analyst to analyze...",
+            "jobResponsibility": "Responsibilities include analyzing data, generating reports...",
+            "Education": "Bachelor's degree in Data Science or related field...",
+            "expriences": "1+ years of experience in data analysis..."
+        },
+        "contact": {
+            "phone": "+1 (987) 654-3210",
+            "email": "contact@companyxyz.com",
+            "address": "456 Elm Street, Suite 789, Cityville, USA"
+        }
+    },
+    {
+        "id": "8",
+        "img": "https://i.ibb.co/GQS2YZG/channels4-profile.jpg",
+        "title": "Data Analyst",
+        "jobType": "Onsite",
+        "time": "Part Time",
+        "location": "Cityville, USA",
+        "salary": "$50,000 - $70,000 per year",
+        "details": {
+            "jobDescription": "We are looking for a data analyst to analyze...",
+            "jobResponsibility": "Responsibilities include analyzing data, generating reports...",
+            "Education": "Bachelor's degree in Data Science or related field...",
+            "expriences": "1+ years of experience in data analysis..."
+        },
+        "contact": {
+            "phone": "+1 (987) 654-3210",
+            "email": "contact@companyxyz.com",
+            "address": "456 Elm Street, Suite 789, Cityville, USA"
+        }
+    },
+    {
+        "id": "9",
+        "img": "https://i.ibb.co/ZWvWJFJ/download.jpg",
+        "title": "Data Analyst",
+        "jobType": "Onsite",
+        "time": "Part Time",
+        "location": "Cityville, USA",
+        "salary": "$50,000 - $70,000 per year",
+        "details": {
+            "jobDescription": "We are looking for a data analyst to analyze...",
+            "jobResponsibility": "Responsibilities include analyzing data, generating reports...",
+            "Education": "Bachelor's degree in Data Science or related field...",
+            "expriences": "1+ years of experience in data analysis..."
+        },
+        "contact": {
+            "phone": "+1 (987) 654-3210",
+            "email": "contact@companyxyz.com",
+            "address": "456 Elm Street, Suite 789, Cityville, USA"
+        }
+    }
+]
